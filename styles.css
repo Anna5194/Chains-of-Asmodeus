@@ -8,7 +8,7 @@ h1{
     text-align: center;
 }
 
-.KoTam, .temptation, .collision{
+.KoTam, .temptation, .collision, .dialog{
     border: 1px solid rgb(104, 69, 30);
     padding: 20px;
     margin: 20px;
@@ -17,6 +17,14 @@ h1{
 .KoTam{
     background-color: rgb(255, 229, 174);
 
+}
+
+.dialog{
+    background-color:antiquewhite;
+}
+
+.artefact{
+    background-color:rgb(188, 255, 220);
 }
 
 .temptation{
