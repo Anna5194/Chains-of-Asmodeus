@@ -1,3 +1,16 @@
 .initiative{
-    
+    /*width: 100px;
+    position: fixed;
+    right: 300px;*/
+    position: fixed;
+    right: 300px;
+    left: 20px; /* Добавляем отступ слева */
+    width: auto; /* Гибкая ширина */
+    overflow-x: auto; /* Горизонтальный скролл при необходимости */
+}
+
+tr, th{
+    height: 50px;
+    margin: 0;
+    padding: 0;
 }
